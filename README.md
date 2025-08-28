@@ -2,4 +2,4 @@
 
 
 
-![](img/cachorro-de-oculo.gif)
+![](head-gif.gif)
